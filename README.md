@@ -1,1 +1,1 @@
-# understanding-computitation
+# understanding-computation
